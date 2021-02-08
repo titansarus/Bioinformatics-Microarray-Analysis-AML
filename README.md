@@ -4,7 +4,7 @@
 
 * This is the course project I have done for the "Introduction to Bioinformatics" course at the Sharif University of Technology.
 
-* Instructors: Dr. Ali Sharifi-Zarchi and Dr. Somayyeh Koohi
+* Course Instructors: Dr. Ali Sharifi-Zarchi and Dr. Somayyeh Koohi
 
 * For this project, I used the [GSE48558](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48558) dataset.
 
