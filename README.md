@@ -1,5 +1,4 @@
-# Bioinformatics-Microarray-Analysis-AML
-Acute Myeloid Leukemia Microarray Analysis
+# Acute Myeloid Leukemia Microarray Analysis - Bioinformatics
 
 
 
